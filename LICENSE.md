@@ -1,4 +1,4 @@
-# 
+# Enhance your trading with smart leverage trading bot Module | latency-optimization + trailing-stop, the #1 leverage trading bot. Includes latency-optimization and trailing-stop
 
 
 
